@@ -1,0 +1,15 @@
+<html>
+<title> Verification</title>
+<label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</br>
+</br>
+<form enctype="multipart/form-data" action="upload.php" method="POST">
+<input type="hidden" name="MAX_FILE_SIZE" value="100000" />
+Please Upload Your Profile here: <input name="uploadedfile" type="file" /><br />
+<input type="submit" value="Upload File" />
+</form>
+</html>
