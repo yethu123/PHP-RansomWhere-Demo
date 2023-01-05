@@ -12,4 +12,4 @@
  -  Tested on XAMPP for Linux  with PHP Version 7.4.30.
  
 **Made for educational purposes only. I hope it will help!** </br>
-**IMPORTANT!: Please DO NOT use this ransomware for illegal purposes!** 
+** Please DO NOT use this for illegal purposes!** 
