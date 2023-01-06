@@ -1,4 +1,4 @@
-# PHP-RansomWhere-Demo
+# PHP-RansomWare-Demo
 
  - PHP ransomware that encrypts your files, as well as file and
    directory names. 
